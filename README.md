@@ -37,6 +37,5 @@ https://github.com/RIDHIJAIN1/QuickRead-Blog
     ```
 
   ##  Demo
-You can see a live demo of this app[ <a href="https://vercel.com/ridhijain1s-projects/quick-read-blog" target="_blank" rel="noreferrer">here</a>
-
+You can see a live demo of this app <a href="https://vercel.com/ridhijain1s-projects/quick-read-blog" target="_blank" rel="noopener noreferrer">here</a>.
 
